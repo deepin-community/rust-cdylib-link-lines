@@ -4,8 +4,20 @@ Upstream-Contact: Luca Barbato <lu_zero@gentoo.org>
 Source: https://github.com/lu-zero/cdylib-link-lines
 
 Files: *
-Copyright: 2019-2021 Luca Barbato <lu_zero@gentoo.org>
+Copyright: FIXME (overlay) UNKNOWN-YEARS Luca Barbato <lu_zero@gentoo.org>
 License: MIT
+Comment:
+ FIXME (overlay): Since upstream copyright years are not available in
+ Cargo.toml, they were extracted from the upstream Git repository. This may not
+ be correct information so you should review and fix this before uploading to
+ the archive.
+
+Files: LICENSE
+Copyright: 2019 Luca Barbato
+License: UNKNOWN-LICENSE; FIXME (overlay)
+Comment:
+ FIXME (overlay): These notices are extracted from files. Please review them
+ before uploading to the archive.
 
 Files: debian/*
 Copyright:

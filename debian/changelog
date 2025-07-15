@@ -1,5 +1,9 @@
-template-repository (1.0-1) unstable; urgency=medium
+rust-cdylib-link-lines (0.1.5-1) unstable; urgency=medium
 
-  * Initial release
+  * Team upload.
+  * Package cdylib-link-lines 0.1.5 from crates.io using debcargo 2.7.0
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+  [ Loren M. Lang ]
+  * Package cdylib-link-lines 0.1.4 from crates.io using debcargo 2.6.1
+
+ -- Holger Levsen <holger@debian.org>  Mon, 14 Oct 2024 17:19:47 +0200
